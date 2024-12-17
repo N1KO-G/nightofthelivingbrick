@@ -8,6 +8,8 @@ TagManager:
   - TutorialRequirement
   - Enemy
   - object
+  - floor
+  - Face
   layers:
   - Default
   - TransparentFX
@@ -24,7 +26,7 @@ TagManager:
   - ConnectivityReceptor
   - ConnectivityConnector
   - object
-  - 
+  - floor
   - 
   - 
   - 
